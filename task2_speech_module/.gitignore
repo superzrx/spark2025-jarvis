@@ -1,0 +1,6 @@
+# 忽略存放音频数据集的文件夹
+test_asr_data/
+
+# 忽略 Python 缓存文件
+__pycache__/
+*.pyc 
